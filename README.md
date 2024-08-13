@@ -32,3 +32,5 @@ O IFIX representa uma carteira teórica com os fundos imobiliários mais negocia
 
 A cada quatro meses, essa carteira é revista, ocasiões nas quais são retirados do índice os FIIs que não preenchem mais seus pré-requisitos, e acrescentados os que estão de acordo com os seus critérios.
 
+<img src="https://github.com/GeorgeTelles/extrair_analisar_ifix/blob/1d2a44c43a00abe7ba6bb17d326a4dec464bef1f/output.png">
+
